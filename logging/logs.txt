@@ -1,0 +1,8 @@
+2024-01-30 11:32:58,326 INFO     [app.py:10] Info level
+2024-01-30 11:32:58,326 WARNING  [app.py:11] This is a warning.
+2024-01-30 11:32:58,326 DEBUG    [app.py:12] This will be a debug message.
+2024-01-30 11:32:58,326 CRITICAL [app.py:13] Critical error. Please help.
+30-01-2024 11:38:26 INFO     [app.py:11] Info level
+30-01-2024 11:38:26 WARNING  [app.py:12] This is a warning.
+30-01-2024 11:38:26 DEBUG    [app.py:13] This will be a debug message.
+30-01-2024 11:38:26 CRITICAL [app.py:14] Critical error. Please help.
